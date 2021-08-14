@@ -86,9 +86,9 @@ a {
 
 button {
     border-radius: 20px;
-    background-color: #ff4b2b;
-    color: #fff;
-    border: 1px solid #ff4b2b;
+    background-color: #FFF3B0;
+    color: #540B0E;
+    border: 1px solid #FFF3B0;
     padding: 12px 45px;
     text-transform: uppercase;
     font-weight: bold;
@@ -118,6 +118,7 @@ button.ghost {
     left: 0;
     width: 50%;
     z-index: 2;
+    color: #540B0E;
 }
 
 .sign-up-container {
@@ -140,9 +141,9 @@ button.ghost {
 
 .overlay {
     position: relative;
-    color: #fff;
-    background: #ff416c;
-    background: linear-gradient(to right, #ff4b2b, #ff416c) no-repeat 0 0 /
+    color: #540B0E;
+    background: #335C67;
+    background: linear-gradient(to right, #FFF3B0, #FFF3B0) no-repeat 0 0 /
         cover;
     left: -100%;
     width: 200%;
