@@ -9,3 +9,9 @@ signInBtn.addEventListener('click', () => {
 signUpBtn.addEventListener('click', () => {
     container.classList.add('right-panel-active')
 });
+
+const loader = document.getElementById('load-id')
+
+window.addEventListener('load', () => {
+    loader.style.display = 'none'
+})

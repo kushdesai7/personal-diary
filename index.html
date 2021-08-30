@@ -12,6 +12,9 @@
         <link rel="icon" type="image/png" href="images/favicon.png"/>
     </head>
     <body>
+        <div class="loader" id="load-id">
+            <img src="/images/laod.png">
+        </div>
         <div class="container" id="container">
             <div class="form-container sign-up-container">
                 <form action="#">
@@ -46,7 +49,7 @@
                     <input type="email" placeholder="Email" />
                     <input type="password" placeholder="Password" />
                     <!-- <a href="https://kushdesai7.github.io/personal-diary/Dashboard/index.html"><button>Sign In</button></a> -->
-                    <a href="https://kushdesai7.github.io/personal-diary/Dashboard/index.html"><p>Sign In</p></a>
+                    <a href="/Dashboard/index.html"><p>Sign In</p></a>
                 </form>
             </div>
             <div class="overlay-container">
@@ -72,5 +75,7 @@
         </div>
 
         <script src="js/main.js"></script>
+        <script src=”/__/firebase/7.14.4/firebase-app.js”></script>
+        <script src=”/__/firebase/7.14.4/firebase-auth.js”></script>
     </body>
 </html>
