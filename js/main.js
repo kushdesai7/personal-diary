@@ -1,5 +1,3 @@
-const { WSAEINVALIDPROCTABLE } = require("constants");
-
 const signUpBtn = document.getElementById('SignUp')
 const signInBtn = document.getElementById('SignIn')
 const container = document.getElementById('container')
@@ -18,6 +16,6 @@ window.addEventListener('load', () => {
     loader.style.display = 'none'
 })
 
-SignInButton.addEventListener('click', () => {
-    window.location.href="/Dashboard/index.html"
-});
+// SignInButton.addEventListener('click', () => {
+//     container.classList.add('right-panel-active')
+// });
