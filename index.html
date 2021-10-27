@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
+		<meta name="google-signin-client_id" content="950765743068-i9uhfu2r08b2n6ra4rsf9snmdmdo89i9.apps.googleusercontent.com">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Sign Up</title>
 		<link
@@ -21,8 +22,8 @@
 					<h1>Create Account</h1>
 					<div class="social-container">
 						<a href="#" class="social">
-							<i class="fab fa-google"></i
-							></a>
+							<div class="g-signin2" data-onsuccess="onSignIn"></div>
+							</a>
 							<a href="#" class="social">
 								<i class="fab fa-apple"></i
 								></a>
@@ -75,9 +76,19 @@
 				</div>
 			</div>
 		</div>
-
+<script src="https://apis.google.com/js/platform.js" async defer></script>
 		<script src="js/main.js"></script>
 		<script src=”/__/firebase/7.14.4/firebase-app.js”></script>
 		<script src=”/__/firebase/7.14.4/firebase-auth.js”></script>
+		
+		<script type = "text/javascript">  
+	function onSignIn(googleUser) {
+  var profile = googleUser.getBasicProfile();
+  console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
+  console.log('Name: ' + profile.getName());
+  console.log('Image URL: ' + profile.getImageUrl());
+  console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
+}
+</script>  
 	</body>
 </html>
