@@ -44,7 +44,7 @@
 		
 		
   firebase.auth().signInWithPopup(GoogleAuth);
-firebase.auth().signInWithRedirect(GoogleAuth);
+
    
 		
 	}
