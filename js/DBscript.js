@@ -17,7 +17,8 @@ const auth = firebaseApp.auth();
 signOutBtn.addEventListener('click', () => {
 	debugger;
 	// Firebase sign out
-    auth.signOut();
+	const promise = auth.signOut();
+	promise.catch(e => alert(e.message));
 });
 
 let notes = JSON.parse(localStorage.getItem('notes')) || [];
