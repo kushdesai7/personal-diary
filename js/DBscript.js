@@ -1,6 +1,7 @@
 const addNoteBtn = document.getElementById('add-note-btn'),
 	  noteColors = document.querySelectorAll('.add-note-colors div'),
 	  noteContainer = document.querySelector('.notes-container');
+	  signOutBtn = document.getElementById('btnSignOut')
 
 let notes = JSON.parse(localStorage.getItem('notes')) || [];
 console.log(notes);
@@ -40,6 +41,11 @@ function checkNotes(notes) {
 	return notes;
 }
 
+signOutBtn.addEventListener('click', () => {
+	debugger;
+	// Firebase sign out
+    firebaseApp.auth().signOut();
+});
 
 // ADD animation class to color circles
 function showColors() {
