@@ -1,6 +1,14 @@
 const addNoteBtn = document.getElementById('add-note-btn'),
 	  noteColors = document.querySelectorAll('.add-note-colors div'),
 	  noteContainer = document.querySelector('.notes-container');
+	  signOutBtn = document.getElementById('btnSignOut');
+
+  
+signOutBtn.addEventListener('click', () => {
+	debugger;
+	// Firebase sign out
+    auth.signOut();
+});
 
 let notes = JSON.parse(localStorage.getItem('notes')) || [];
 console.log(notes);
