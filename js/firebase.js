@@ -9,14 +9,7 @@
    const db = firebaseApp.firestore();
    const auth = firebaseApp.auth(); 
   const GoogleAuth = new firebase.auth.GoogleAuthProvider();
-  signOutBtn = document.getElementById('btnSignOut');
-
-  
-signOutBtn.addEventListener('click', () => {
-	debugger;
-	// Firebase sign out
-    auth.signOut();
-});
+ 
    
  function SignUpNew(){
    var email = document.getElementById("email");
