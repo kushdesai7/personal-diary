@@ -18,13 +18,17 @@ signOutBtn.addEventListener('click', () => {
 	debugger;
 	// Firebase sign out
 	try {
-		await auth.signOut();
-		// signed out
-		alert("OK");
-		location.href("/");
+		auth.signOut().then(function() {
+			// Sign-out successful.
+			alert("OK");
+			location.href("/");
+		  })
+		  .catch(function(error) {
+			// An error happened
+			alert("NOT OK");
+		  });
 	  } catch (e){
 	   // an error
-	   alert("NOT OK");
 	  } 
 });
 
