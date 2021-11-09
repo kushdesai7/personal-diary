@@ -21,7 +21,7 @@ signOutBtn.addEventListener('click', () => {
 		auth.signOut().then(function() {
 			// Sign-out successful.
 			alert("OK");
-			location.href("/");
+			location.href = "/personal-diary";
 		  })
 		  .catch(function(error) {
 			// An error happened
