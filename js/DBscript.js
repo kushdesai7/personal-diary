@@ -4,13 +4,13 @@ const addNoteBtn = document.getElementById('add-note-btn'),
 	  signOutBtn = document.getElementById('btnSignOut');
 
 const firebaseApp = firebase.initializeApp({  
-apiKey: "AIzaSyBcnQfoOk87xMv9iYGHATb2qtXbIdMDkjA",
-	authDomain: "personal-diary-352cf.firebaseapp.com",
-	projectId: "personal-diary-352cf",
-	storageBucket: "personal-diary-352cf.appspot.com",
-	messagingSenderId: "193410935291",
-	appId: "1:193410935291:web:32cfab4b665c98c2dc035e",
-	measurementId: "G-Z12762KZR5" });
+ apiKey: "AIzaSyDPW880byQT8UWKI5AZolIgF0n0I5qNZv8",
+    authDomain: "personal-dairy-7dc90.firebaseapp.com",
+    projectId: "personal-dairy-7dc90",
+    storageBucket: "personal-dairy-7dc90.appspot.com",
+    messagingSenderId: "610463353323",
+    appId: "1:610463353323:web:c2839aebd3801a183f31ae",
+    measurementId: "G-BZB44933WV" });
 const auth = firebaseApp.auth(); 
 
   
