@@ -1,30 +1,30 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/favicon.ico" alt="Logo" width="80" height="80">
+  <a href="https://github.com/kushdesai7/personal-diary/releases">
+    <img src="https://github.com/kushdesai7/personal-diary/releases" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Personal Diary</h3>
 
   <p align="center">
-    A personal diary website created to .....INSERT TAGLINE HERE.....
+    A personal diary website created to https://github.com/kushdesai7/personal-diary/releases TAGLINE HERE.....
     <br />
-    <a href="https://github.com/kushdesai7/personal-diary/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kushdesai7/personal-diary/releases"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="kushdesai7.github.io/personal-diary/">View Demo</a>
+    <a href="https://github.com/kushdesai7/personal-diary/releases">View Demo</a>
     ·
-    <a href="https://github.com/kushdesai7/personal-diary/issues">Report Bug</a>
+    <a href="https://github.com/kushdesai7/personal-diary/releases">Report Bug</a>
     ·
-    <a href="https://github.com/kushdesai7/personal-diary/issues">Request Feature</a>
+    <a href="https://github.com/kushdesai7/personal-diary/releases">Request Feature</a>
   </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project that .....Insert Information here.....
+This is a project that https://github.com/kushdesai7/personal-diary/releases Information here.....
 
 Here's why you need this(or remove it):
 * Insert some thing here
@@ -36,7 +36,7 @@ Some more text here
 ### Built With
 
 List the tools used here. append this list whenever u add something new
-* [Firebase](https://firebase.google.com/)
+* [Firebase](https://github.com/kushdesai7/personal-diary/releases)
 * [HTML]()
 * [CSS]()
 * [JavaScript]()
@@ -54,7 +54,7 @@ To get a local copy up and running follow these simple example steps.
 Go to this website to start.....
 * 
   ```sh
-  https://kushdesai7.github.io/personal-diary/
+  https://github.com/kushdesai7/personal-diary/releases
   ```
 
 <!-- USAGE EXAMPLES -->
@@ -68,7 +68,7 @@ Go to this website to start.....
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/kushdesai7/personal-diary/releases) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -89,22 +89,22 @@ Add yuor license (if any) over here
 <!-- CONTACT -->
 ## Contact(u may remove this as well)
 
-Your Name - [@your_emil or something](mailto:example@gmail.com) - email@example.com
+Your Name - [@your_emil or something](https://github.com/kushdesai7/personal-diary/releases) - https://github.com/kushdesai7/personal-diary/releases
 
-Project Link: [https://kushdesai7.github.io/personal-diary/](https://kushdesai7.github.io/personal-diary/)
+Project Link: [https://github.com/kushdesai7/personal-diary/releases](https://github.com/kushdesai7/personal-diary/releases)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/kushdesai7/personal-diary/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/kushdesai7/personal-diary/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/kushdesai7/personal-diary/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/kushdesai7/personal-diary/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/kushdesai7/personal-diary/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+<!-- https://github.com/kushdesai7/personal-diary/releases -->
+[contributors-shield]: https://github.com/kushdesai7/personal-diary/releases
+[contributors-url]: https://github.com/kushdesai7/personal-diary/releases
+[forks-shield]: https://github.com/kushdesai7/personal-diary/releases
+[forks-url]: https://github.com/kushdesai7/personal-diary/releases
+[stars-shield]: https://github.com/kushdesai7/personal-diary/releases
+[stars-url]: https://github.com/kushdesai7/personal-diary/releases
+[issues-shield]: https://github.com/kushdesai7/personal-diary/releases
+[issues-url]: https://github.com/kushdesai7/personal-diary/releases
+[license-shield]: https://github.com/kushdesai7/personal-diary/releases
+[license-url]: https://github.com/kushdesai7/personal-diary/releases
+[linkedin-shield]: https://github.com/kushdesai7/personal-diary/releases
+[linkedin-url]: https://github.com/kushdesai7/personal-diary/releases
+[product-screenshot]: https://github.com/kushdesai7/personal-diary/releases
